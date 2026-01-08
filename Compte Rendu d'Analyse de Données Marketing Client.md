@@ -1,5 +1,8 @@
 # Compte Rendu d'Analyse de Données Marketing Client
 
+SAFAE ALLAMI
+file:///C:/Users/HP/Documents/S7%20ENCG/SAFAE%20ALLAMI.jpg
+
 ## 1. Thématique et Objectifs
 
 Ce projet s'inscrit dans le domaine de l'**Analyse Marketing et de la Segmentation Client**. L'objectif principal est de préparer et d'analyser un jeu de données client pour identifier des tendances de comportement d'achat et des profils démographiques, en vue d'une future modélisation de segmentation (clustering).
